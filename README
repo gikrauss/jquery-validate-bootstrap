@@ -1,0 +1,8 @@
+jQuery Validate, with settings updated to use Bootstrap classes for showing errors.
+Tested with jQuery Validate 1.9.0 and Bootstrap 2.0
+
+Usage: $("#myform").validate_bootstrap();
+
+see http://docs.jquery.com/Plugins/Validation
+author Josh Justice <josh.justice@northpoint.org>
+version 1.0
